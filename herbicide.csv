@@ -1,0 +1,18 @@
+﻿herbicide,field,weight
+control,Field 1,1.05
+control,Field 2,1.15
+control,Field 3,1.02
+control,Field 4,1.11
+TCA,Field 1,1.55
+TCA,Field 2,1.86
+TCA,Field 3,1.68
+TCA,Field 4,1.69
+DNCR,Field 1,1.95
+DNCR,Field 2,2.00
+DNCR,Field 3,1.82
+DNCR,Field 4,1.81
+Sesin,Field 1,1.75
+Sesin,Field 2,1.93
+Sesin,Field 3,1.70
+Sesin,Field 4,1.59
+Sesin,Field 5,NA
