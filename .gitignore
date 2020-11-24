@@ -35,4 +35,4 @@ Temporary Items
 
 /assignment_code   #move assigned homework out of this file
 
-/stress_test_key.R      #ignore the key so I can keep in this folder; literal filename
+/key.R      #ignore the key so I can keep in this folder; literal filename
